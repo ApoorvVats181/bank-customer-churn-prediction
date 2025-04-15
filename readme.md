@@ -9,7 +9,7 @@ A machine learning project to predict customer churn for a bank, enabling target
 ## 📌 Overview
 - **Problem**: 20% of customers churned, costing the bank revenue. Early prediction is critical for retention.
 - **Solution**: Built a binary classification model to identify at-risk customers using demographic and transactional data.
-- **Result**: Achieved **79.7% accuracy** (AUC: 0.857) with Random Forest, outperforming 5 other models.********
+- **Result**: Achieved **79.7% accuracy** (AUC: 0.857) with Random Forest, outperforming 5 other models.
 
 ---
 
